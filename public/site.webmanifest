@@ -1,0 +1,17 @@
+{
+  "name": "NADIR — Global Intelligence Platform",
+  "short_name": "NADIR",
+  "description": "Real-time global intelligence dashboard for geospatial monitoring, OSINT, aircraft, satellites, maritime, CCTV, weather and threat intelligence.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#04040A",
+  "theme_color": "#D4AF37",
+  "orientation": "landscape-primary",
+  "categories": ["security", "intelligence", "analytics", "news"],
+  "icons": [
+    { "src": "/nadir-mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
