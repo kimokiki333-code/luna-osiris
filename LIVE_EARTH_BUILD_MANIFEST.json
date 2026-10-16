@@ -1,0 +1,16 @@
+{
+  "variant": "globe",
+  "base": "Gods-Eye-View-original.zip",
+  "research_sources": [
+    "Icarus-main.zip",
+    "openaq-explorer-main(1).zip",
+    "AstroTrack-main(1).zip",
+    "Argus-master.zip",
+    "StormviewRadar-main.zip",
+    "StormScope-master(1).zip",
+    "Terra-Watch-main.zip",
+    "worldview-main(1).zip"
+  ],
+  "icarus_reviewed": true,
+  "runtime_policy": "original source retained; research repos preserved, not blindly merged"
+}
